@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-01-13 First week ad Metis
+title: 2016-01-13 First week at Metis
 ---
 
 Time flies, especially if you immersed yourself in a high-pace environment and wrap your head around complex problems.
@@ -19,14 +19,13 @@ The course kicked off with a group project this week, which was a good opportuni
 
 In order to arrive at recommendation we had to perform the following steps:
 
-	* **importing the data** into a structure that could by handled using the functions and methods at our disposal
-	* **cleaning the data** by drawing descriptive summary statistics from it and eliminating outliers and nonsensical data
-	* aggregating the data in a meaningful way to **draw conclusions** from it
-	* plotting the data in order to best **support these conclusions** 
+* **importing the data** into a structure that could by handled using the functions and methods at our disposal
+* **cleaning the data** by drawing descriptive summary statistics from it and eliminating outliers and nonsensical data
+* aggregating the data in a meaningful way to **draw conclusions** from it
+* plotting the data in order to best **support these conclusions** 
 
 
-[approach](/images/methodology.jpg)
-Format: !["Methodology"]
+![methodology](/images/methodology.png)
 
 ## Learnings
 ... to come
