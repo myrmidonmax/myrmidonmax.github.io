@@ -29,7 +29,7 @@ Our team applied a 3-step methodolog, as shown below:
 
 1. Filter Subway stations by the median income of their neighborhoods. (>70k)
 2. Select the top stations based on their proximity to startups
-3. Filter out stations who's traffic won't suffice to fully utilize a 5-member street team  
+3. Filter out stations who's traffic won't suffice to fully utilize a 5-member street team   
 
 ![methodology](/images/methodology.png)
 
